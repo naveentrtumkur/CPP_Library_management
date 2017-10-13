@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460988988 source:d:\codeblockproj\bookmanagaement\src\book.cpp
+	<iostream>
+	<string.h>
+
